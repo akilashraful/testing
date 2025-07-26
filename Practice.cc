@@ -2,7 +2,6 @@
 
 int main () {
     printf ("Hello World\n");
-    printf ("amar kalke class ache");
 
-    printf ("amar kalke class ache");
+    printf ("whats your plan tomorrow?");
 }
