@@ -5,3 +5,4 @@ int main () {
 
     printf ("whats your plan tomorrow?");
 }
+
